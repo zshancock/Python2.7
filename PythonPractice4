@@ -1,0 +1,12 @@
+## Program 4: Asks user to input 5 numbers, one at a time, then prints the average ##
+
+a = int(raw_input("Please enter 5 numbers so I can average them...1st number? "))
+b = int(raw_input("2nd number? "))
+c = int(raw_input("3rd number? "))
+d = int(raw_input("4th number? "))
+e = int(raw_input("5th number? "))
+
+x = (a + b + c + d + e)
+y = x / 5
+
+print "The average of your five numbers is " + str(y)
