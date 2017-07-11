@@ -1,0 +1,11 @@
+## Program 5: Asks user to input 5 numbers, one at a time, then prints the largest ##
+
+a = int(raw_input("Please enter 5 numbers so I can tell you the largest...1st number? "))
+b = int(raw_input("2nd number? "))
+c = int(raw_input("3rd number? "))
+d = int(raw_input("4th number? "))
+e = int(raw_input("5th number? "))
+
+list = [a, b, c, d, e]
+
+print "The largest number is " + str(max(list))
