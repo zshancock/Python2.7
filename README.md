@@ -1,4 +1,5 @@
 # PythonPractice
+Author - Zac Hancock   zshancock@gmail.com
 
 Some of my Python developments as I have progressed through coursework and online modules. 
 
