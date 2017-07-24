@@ -1,6 +1,5 @@
-## Lesson 4 - Program 2: A loop that allows user to enter names until ##
-## user enters an empty string, then sorts the list and prints sorted ##
-## list.                                                              ##
+## A loop that allows user to enter names until user enters an empty string, then sorts the list and prints sorted
+## list.                                                           
 
 names = []
 
