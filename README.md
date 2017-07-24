@@ -12,6 +12,6 @@ Additionally, some of my scripts are specific to using the ArcPy package.
 >Progression of skills using spatial analyst, cursors, feature management and other tools 
 >available in the ArcPy package. 
 
-*RawInputs-Lists Folder:*
+*WorkingwithLists-RawInputs Folder:*
 >The graduation of my skills using elementary principles centered around user provided
 >information (raw_input), lists, and loops.
