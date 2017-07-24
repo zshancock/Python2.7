@@ -1,5 +1,5 @@
-## Program 3: Returns the fourth test grade from a list and prints a letter grade statement depending ##
-## on the score.                                                                                      ##
+## Returns the fourth test grade from a list and prints a letter grade statement depending ##
+## on the score. List could be editted as well as grade of choice.                         ##
 
 grades = [62,68,93,75,89,85]
 x = grades[3]
