@@ -1,4 +1,4 @@
-## Program 1: Asks user for a name first. Then outputs the users name and number of characters. Includes spaces.##
+## Asks user for a name first. Then outputs the users name and number of characters. Includes spaces.##
 
 name = raw_input("Tell me your name please. ")
 print "Hi " + name + ", did you know your name is " + str(len(name)) + " characters long?"
