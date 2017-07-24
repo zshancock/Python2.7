@@ -1,5 +1,4 @@
-## ArcGIS Specific Program : Use WellsSubset shapefile to generate a      
-## raster using Natural Neighbor interpolation - then use the contour     
+## Use WellsSubset shapefile to generate a raster using Natural Neighbor interpolation - then use the contour     
 ## tool with 1500 as interval to generate the contour of resulting raster 
 
 import arcpy
@@ -9,7 +8,7 @@ from arcpy.sa import *
 env.workspace = "C:\\Users\\Zac\\Desktop\\Classwork\\GIS 4080\\Lesson3\\Lesson3_Data"
 arcpy.CheckOutExtension("Spatial") 
 
-##################### First: Creating the Natural Neighbor interpolation raster #############################
+## First: Creating the Natural Neighbor interpolation raster
 
 # Define Local variables.
 
@@ -22,7 +21,7 @@ outNatNbr = NaturalNeighbor(input_feature, z_field)
 outNatNbr.save("C:\\Users\\Zac\\Desktop\\Classwork\\GIS 4080\\Lesson3\\Lesson3_Data\\natnbr")
 
 
-##################### Second: Using the Contours tool ######################################################
+## Second: Using the Contours tool
  
 # Set local variables
 
