@@ -1,4 +1,4 @@
-## Program 4: Asks user to input 5 numbers, one at a time, then prints the average ##
+## Asks user to input 5 numbers, one at a time, then prints the average ##
 
 a = int(raw_input("Please enter 5 numbers so I can average them...1st number? "))
 b = int(raw_input("2nd number? "))
