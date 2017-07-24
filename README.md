@@ -10,7 +10,7 @@ Additionally, some of my scripts are specific to using the ArcPy package.
 Summary of Contents:
 ArcPy Folder:
 
-RawInputs_Intro_practice 
-RawInputs_and_Loops 
-RawInputs_practice                                    
-basic_raw_input_with_lists_practice 
+
+RawInputs-Lists Folder:
+The graduation of my skills using elementary principles centered around user provided information (raw_input),
+lists, and loops.
