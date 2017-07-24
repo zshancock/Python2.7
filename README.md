@@ -12,5 +12,5 @@ ArcPy Folder:
 
 
 RawInputs-Lists Folder:
-The graduation of my skills using elementary principles centered around user provided information (raw_input),
-lists, and loops.
+The graduation of my skills using elementary principles centered around user provided /n
+information (raw_input), lists, and loops.
