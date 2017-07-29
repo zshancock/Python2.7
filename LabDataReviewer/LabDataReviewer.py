@@ -82,6 +82,11 @@ with open(LabData) as LabData:
                 reviewerReport.write( "Quality Control Summary:"+ "\n")
                 reviewerReport.write( "ICV = " + str(recovery) + "%, Acceptable" + "\n" )
             else:
+                reviewerReport.write( "Analyst: " + line['Analyst']+ "\n")
+                reviewerReport.write( "Date & Time: " + line['Date and Time']+ "\n")
+                reviewerReport.write( "Test: " + line['SEAL AQ2 Test']+ "\n")
+                reviewerReport.write( "----------------"+ "\n")
+                reviewerReport.write( "Quality Control Summary:"+ "\n")
                 reviewerReport.write( "ICV = " + str(recovery) + "%, Failed" + "\n")
                 
         # Verify the Method Blank (MB) results.
