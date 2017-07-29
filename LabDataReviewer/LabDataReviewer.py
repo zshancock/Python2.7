@@ -68,7 +68,8 @@ with open(LabData) as LabData:
 
     for line in LabData_reader:
 
-        # Verify the ICV results.
+        # Verify the ICV results. There is only ever one ICV in a run, so write the heading of the 
+        # text file while writing the performance of the ICV. 
         
         if line['Sample ID'] == "ICV":
             result = float(line['Results'])
