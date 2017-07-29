@@ -1,0 +1,43 @@
+Reviewer Report generated: 2017-07-28   20:10
+
+
+----------------
+Analyst: zsh
+Date & Time: 7/3/2017 12:02
+Test: TKN Cu
+----------------
+Quality Control Summary:
+ICV = 83.25%, Failed
+MB = Acceptable
+BS = 95.5%, Acceptable
+D94821-2 needs to be reanalyzed at a higher dilution.
+CCV = 95.0%, Acceptable
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+MB = Failed
+BS = 116.0%, Failed
+D94973-1 needs to be reanalyzed at a higher dilution.
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 115.0%, Failed
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 95.0%, Acceptable
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 95.0%, Acceptable
+CCB = Acceptable
+CCV = 85.0%, Failed
+CCB = Failed
+----------------
+
+
+ Report generated using Lab Data Reviewer.
+ Author : Zac Hancock 
