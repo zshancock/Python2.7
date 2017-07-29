@@ -1,0 +1,41 @@
+Reviewer Report generated: 2017-07-28   18:33
+
+
+----------------
+Analyst: zsh
+Date & Time: 07/03/2017 12:02:34
+Test: TKN Cu
+----------------
+Quality Control Summary:
+ICV = 95.0%, Acceptable
+MB = Acceptable
+BS = 95.5%, Acceptable
+CCV = 95.0%, Acceptable
+CCB = Acceptable
+CCV = 95.0%, Acceptable
+CCB = Acceptable
+MB = Acceptable
+BS = 101.4%, Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 95.0%, Acceptable
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 95.0%, Acceptable
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+CCV = 95.0%, Acceptable
+CCB = Acceptable
+CCV = 90.0%, Acceptable
+CCB = Acceptable
+----------------
+
+
+ Report generated using Lab Data Reviewer.
+ Author : Zac Hancock 
