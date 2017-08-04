@@ -12,6 +12,14 @@ Additionally, some of my scripts are specific to using the ArcPy package.
 >Progression of skills using spatial analyst, cursors, feature management and other tools 
 >available in the ArcPy package. 
 
+*LabDataReviewer Folder:*
+>A program I created to read Lab Data from my SEAL AQ2 Analyzer and determine whether or not
+>a run is within acceptable criteria - and if unacceptable, quickly identify what parts of the 
+>run failed. 
+
 *WorkingwithLists-RawInputs Folder:*
 >The graduation of my skills using elementary principles centered around user provided
 >information (raw_input), lists, and loops.
+
+*WorkingwithPandas Folder:*
+>Progression of skills using Pandas. 
