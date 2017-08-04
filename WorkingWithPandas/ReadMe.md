@@ -12,9 +12,9 @@ and does not represent anything real - it is essentially a smaller copy of the d
 **Subjects:**
 - [x] Creating a Series
 - [x] Creating an Index
-- [ ] Working with DataFrames
-- [ ] Add a New Column to a DataFrame
-- [ ] Delete a Column from a DataFrame
+- [x] Working with DataFrames
+- [x] Add a New Column to a DataFrame
+- [x] Delete a Column from a DataFrame
 - [ ] DataFrame from a Dictionary
 - [ ] Re-Indexing
 - [ ] Simple Stats
