@@ -9,7 +9,7 @@ Additionally, some of my scripts are specific to using the ArcPy package.
 **Summary of Contents:**
 
 *ArcPy Folder:*
->Progression of skills using spatial analyst, cursors, feature management and other tools 
+>Progression of skills using spatial analyst, cursors, feature management, rasters and other tools 
 >available in the ArcPy package. 
 
 *LabDataReviewer Folder:*
