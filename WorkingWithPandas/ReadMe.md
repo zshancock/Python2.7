@@ -1,8 +1,9 @@
-PANDAS Practice
+ PANDAS Practice
 ========================
 ##### Zac Hancock
 
-Documenting my practice working with Pandas.
+Documenting my practice working with Pandas. All data located in "Example Data" was created by hand for usage in my practice
+and does not represent anything real - it is essentially a smaller copy of the data used in the author credited below.
 
 **Based on:** 
 >"Pandas in a nutshell" (http://kanoki.org/2017/07/16/pandas-in-a-nutshell)
