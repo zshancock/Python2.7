@@ -4,11 +4,11 @@ PANDAS Practice
 
 Documenting my practice working with Pandas.
 
-**Based on :** 
+**Based on:** 
 >"Pandas in a nutshell" (http://kanoki.org/2017/07/16/pandas-in-a-nutshell)
 >By min2broJuly 16, 2017  Category: Data Science, Python
 
-** Subjects: **
+**Subjects:**
 - [x] Creating a Series
 - [x] Creating an Index
 - [ ] Working with DataFrames
