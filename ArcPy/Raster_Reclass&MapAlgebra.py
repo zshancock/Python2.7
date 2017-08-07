@@ -6,7 +6,8 @@ import arcpy
 
 # set up environments & check out spatial analyst extension -------------------------
 
-arcpy.env.overwriteOutput = Truearcpy.env.workspace = "C:\\Users\\Zac\\Desktop\\Classwork\\GIS 4080\\Lesson_7_Data"
+arcpy.env.overwriteOutput = True
+arcpy.env.workspace = "C:\\Users\\Zac\\Desktop\\Classwork\\GIS 4080\\Lesson_7_Data"
 arcpy.CheckOutExtension("Spatial")
 print "Begin processing."
 
