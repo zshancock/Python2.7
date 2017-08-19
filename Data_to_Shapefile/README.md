@@ -11,7 +11,7 @@ The example data is in the Data Folder.
 The shapefiles are not on github in this repository. 
 
 Skills that I developed - 
-[x] calling other .py files
-[x] creating custom tools, "backend"
-[x] comfort level in munipulating text files with python dramatically increased
-[x] using update cursor and add field management in arcpy
+- [x] calling other .py files
+- [x] creating custom tools, "backend"
+- [x] comfort level in munipulating text files with python dramatically increased
+- [x] using update cursor and add field management in arcpy
