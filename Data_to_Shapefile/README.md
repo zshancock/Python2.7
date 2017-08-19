@@ -1,6 +1,6 @@
 
-### Writing Lab Data to Attribute Tables in Shapefiles ##
-## Author - Zac Hancock (zshancock@gmail.com)
+## Writing Lab Data to Attribute Tables in Shapefiles ##
+### Author - Zac Hancock (zshancock@gmail.com)
 
 This is a script I wrote to take in lab data from instruments I work with, dissect them to make a new field in a shapefile
 and write the results in a new field for each clients' shapefile. All data is fake and client id's are made up to protect the 
