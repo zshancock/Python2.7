@@ -23,7 +23,7 @@ if __name__ == '__main__':
     for files in LabData_list:
 
         complete = DataSorter(LabData_list[index])
-        complete = WriteResults("C:\\FinalProject\\DATA\\TEMP.txt")
+        complete = WriteResults("C:\\PythonPractice\\Data_to_Shapefile\\DATA\\TEMP.txt")
         index = index + 1
 
     print "No more files found."
