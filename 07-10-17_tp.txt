@@ -1,0 +1,11 @@
+Sample ID,SEAL AQ2 Test,Absorbance,Results,Units,Analyst,Man Dil Factor,Auto Dil Factor,Date and Time
+ICV,TP,0.023323,  0.053,mg P/L,adm,1,1,07/10/17,
+MB,TP,0.007659,  0.001,mg P/L,adm,1,1,07/10/17,
+BS,TP,0.065210,  0.192,mg P/L,adm,1,1,07/10/17,
+EL_01,TP,0.065210,  0.192,mg P/L,adm,1,1,07/10/17,
+BO_01,TP,0.029201,  0.072,mg P/L,adm,1,1,07/10/17,
+MC_01,TP,0.028710,  0.071,mg P/L,adm,1,1,07/10/17,
+G_01,TP,0.029852,  0.074,mg P/L,adm,1,1,07/10/17,
+D_01,TP,0.013572,  0.020,mg P/L,adm,1,1,07/10/17,
+CCV,TP,0.036526,  0.097,mg P/L,adm,1,1,07/10/17,
+CCB,TP,0.007788,  0.001,mg P/L,adm,1,1,07/10/17,

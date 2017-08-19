@@ -1,0 +1,9 @@
+Sample ID,Detection Date,Detection Time,Manual Dilution Factor,Auto Dilution Factor,Analyte Name,Peak Area,Peak Concentration,Concentration Units
+ICV,07/13/17,3:32:15 PM,1,1,PN,0.353,0.197,mg/L
+MB,07/13/17,3:32:49 PM,1,1,PN,-0.031,-0.0288,mg/L
+BS,07/13/17,3:33:24 PM,1,1,PN,0.855,0.493,mg/L
+EL_01,07/13/17,3:33:59 PM,50,1,PN,0.0968,0.0464,mg/L
+G_01,07/13/17,3:34:33 PM,1,1,PN,0.0311,0.00772,mg/L
+D_01,07/13/17,3:35:07 PM,1,1,PN,0.0274,0.00554,mg/L
+CCV,07/13/17,3:39:50 PM,1,1,PN,0.524,0.298,mg/L
+CCB,07/13/17,3:40:25 PM,1,1,PN,0.0143,-0.00215,mg/L
