@@ -107,7 +107,7 @@ def WriteResults(x):
 # Set up workspace and open TEMP file.
 
     arcpy.env.overwriteOutput = True
-    arcpy.env.workspace = "C:\\FinalProject\\DATA\\map"
+    arcpy.env.workspace = "C:\\PythonPractice\\Data_to_Shapefile\\DATAmap"
 
     x = "C:\\PythonPractice\\Data_to_Shapefile\\DATA\\TEMP.txt"
     outputFile = open(x, "r")
