@@ -28,7 +28,7 @@ def DataSorter(x):
 #later code).
 
     data = open(LabData, "r")
-    output = "C:\\PythonPractice\\Data_to_Shapefile\\DATA\\TEMP.txt""
+    output = "C:\\PythonPractice\\Data_to_Shapefile\\DATA\\TEMP.txt"
     outputFile = open(output, "w")
     
     for line in data:
