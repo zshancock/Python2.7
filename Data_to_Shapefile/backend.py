@@ -1,4 +1,4 @@
-# Backend for Final Project script.
+# Backend for Data to Shapefile script.
 # Author Zac Hancock
 
 # -------------------------------------------------------------------------------------------
