@@ -11,7 +11,7 @@ def DataSorter(x):
     
     #Locate Data
     
-    folder = "C:\\FinalProject\\DATA"
+    folder = "C:\\PythonPractice\\Data_to_Shapefile\\DATA"
     LabData = folder + "\\" + x + ".txt"
 
     if os.path.isfile(LabData):
@@ -28,7 +28,7 @@ def DataSorter(x):
 #later code).
 
     data = open(LabData, "r")
-    output = "C:\\FinalProject\\DATA\\TEMP.txt"
+    output = "C:\\PythonPractice\\Data_to_Shapefile\\DATA\\TEMP.txt""
     outputFile = open(output, "w")
     
     for line in data:
@@ -109,7 +109,7 @@ def WriteResults(x):
     arcpy.env.overwriteOutput = True
     arcpy.env.workspace = "C:\\FinalProject\\DATA\\map"
 
-    x = "C:\\FinalProject\\DATA\\TEMP.txt"
+    x = "C:\\PythonPractice\\Data_to_Shapefile\\DATA\\TEMP.txt"
     outputFile = open(x, "r")
 
     
@@ -143,7 +143,7 @@ def WriteResults(x):
             client = lineSegment[0]
             data = lineSegment[1] + " " + lineSegment[2]
             data_list.append(data)
-            shapefile = "C:\\FinalProject\\DATA\\map\\" + client + ".shp"
+            shapefile = "C:\\PythonPractice\\Data_to_Shapefile\\DATA\\"" + client + ".shp"
             shapefile_list.append(shapefile)
             arcpy.AddField_management(shapefile, field, "TEXT")
             print "-" + client + ".shp"
